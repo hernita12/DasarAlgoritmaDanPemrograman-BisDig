@@ -3,7 +3,7 @@
    - Membagi program menjadi bagian kecil (Modular).
    - Dapat digunakan berulang kali (Reusability).
    - Mudah dalam menemukan dan memperbaiki kesalahan.
-   - Mmebuat kode lebih rapi dan jelas.
+   - Membuat kode lebih rapi dan jelas.
    Cara kerja rekursi adalah cara di mana sebuah fungsi memanggil dirinya sendiri untuk menyelesaikan masalah. contohnya untuk menghitung faktorial dengan rekursi memiliki aturan berhenti (basis) jika angkanya 0 atau 1 maka langsung kembali ke 1, dan jika lebih dari 1 maka faktorial(n) = n × faktorial(n - 1).
    
 2. Penggunaan Loop dan Array
