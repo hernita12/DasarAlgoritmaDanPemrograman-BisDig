@@ -11,15 +11,15 @@
  
 3.  Algoritma Kasir
    Langkah-langkah algoritma:
-   1. Mulai program
-   2. Input harga barang:
+   - Mulai program
+   - Input harga barang:
       - Minta pengguna memasukkan harga barang pertama. 
       - Minta pengguna memasukkan harga barang kedua.
       - Minta pengguna memasukkan harga barang ketiga.
          for i in range(3):
           harga = float(input(f"Masukkan harga barang ke-{i+1}: "))
           harga_barang.append(harga)
-   3. Proses:
+   - Proses:
       - Jumlahkan ketiga harga barang tersebut.
            total = sum(harga_barang)
-   4. Selesai.
+   - Selesai.
