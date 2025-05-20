@@ -23,3 +23,15 @@
       - Jumlahkan ketiga harga barang tersebut.
            total = sum(harga_barang)
    - Selesai.
+     
+4. Menentukan syarat lulus berdasarkan nilai rata-rata
+   Peran tipe data:
+   - int dan float untuk menyimpan nilai ujian siswa.
+   - str untuk menyajikan teks, seperti pesan mengenai hasil kelulusan siswa.
+   Peran operator:
+   - Operator aritmatika (+,/) digunakan dalam proses penjumlahan dan pembagian untuk menghitung rata-rata dari ketiga nilai ujian.
+   - Operator perbandingan (>=) digunakan untuk memerikasa apakah rata-rata nilai siswa memenuhi batas minimal kelulusan (75).
+
+5. Struktur kontrol percabangan yang digunakan untuk logika pemberian diskon dapat menggunakan pernyataan if, else if, dan else  untuk membuat percabangan. contoh:
+   - jika total belanja > 500.000 maka di berikan diskon 10%.
+   - jika tidak maka tidak ada diskon.
